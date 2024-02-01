@@ -42,7 +42,9 @@ table, tr:last-child td{
 }
 ```
 
-The first section of this code adds a bottom border and then sets the border-collapse property to collapse so that the borders of the <table>, <th>, and <td> elements merge into each other which looks as if there is only a single border. Then the second section of the code selects the bottom border of the <table>, and the <td> elements in the last <tr> element and removes the bottom border.
+The first section of this code adds a bottom border and then sets the border-collapse property to collapse so that the borders of the <table>, <th>, and <td> elements merge into each
+other which looks as if there is only a single border. Then the second section of the code selects the bottom border of the <table>, and the <td> elements in the last <tr> element and
+removes the bottom border.
 
 ### Continued development
 
