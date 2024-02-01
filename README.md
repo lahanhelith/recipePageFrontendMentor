@@ -17,8 +17,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live Site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/lahanhelith/recipePageFrontendMentor)
+- Live Site URL: [Live Site URL](https://sensational-cobbler-74b6a2.netlify.app/)
 
 ## My process
 
@@ -42,8 +42,8 @@ table, tr:last-child td{
 }
 ```
 
-The first section of this code adds a bottom border and then sets the border-collapse property to collapse so that the borders of the <table>, <th>, and <td> elements merge into each
-other which looks as if there is only a single border. Then the second section of the code selects the bottom border of the <table>, and the <td> elements in the last <tr> element and
+The first section of this code adds a bottom border and then sets the border-collapse property to collapse so that the borders of the "table", "th", and "td" elements merge into each
+other which looks as if there is only a single border. Then the second section of the code selects the bottom border of the table, and the "td" elements in the last "tr" element and
 removes the bottom border.
 
 ### Continued development
